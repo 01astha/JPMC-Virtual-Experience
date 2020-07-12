@@ -41,12 +41,6 @@ Implement JP Morgan Chase’s Perspective open source code in preparation for da
 
 <code> python datafeed/server3.py </code>
 
-If you encounter an issue with `datautil.parser`, run this command: 
-
-	pip install python-dateutil
-
-If you don't have pip, you can install it from: https://pip.pypa.io/en/stable/installing/
-
 Run <code>npm install && npm start</code> to start the React application.
 
 It's okay to have audit warnings when installing/running the app.
